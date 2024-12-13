@@ -147,7 +147,7 @@ spec:
             - name: ORDER_QUEUE_USERNAME
               value: "sender"
             - name: ORDER_QUEUE_PASSWORD
-              value: "QBN+pskhtCZjAprjvvyaSFd283vfkOf/T+ASbEWka0Y="
+              value: "THIS PASSWORD CANNOT PUSH TO GITHUB"
             - name: ORDER_QUEUE_NAME
               value: "orders"
             - name: FASTIFY_ADDRESS
@@ -243,7 +243,7 @@ spec:
             - name: ORDER_QUEUE_USERNAME
               value: "listener"
             - name: ORDER_QUEUE_PASSWORD
-              value: "OR0of/Vrklc5ZmmeRHTR+SrCX6gzuFCjO+ASbBMPkrk="
+              value: "THIS PASSWORD CANNOT PUSH TO GITHUB"
             - name: ORDER_QUEUE_NAME
               value: "orders"
             - name: ORDER_DB_URI
